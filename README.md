@@ -5,4 +5,4 @@
 
 ### Provide a documented electronic access mechanism for many government and non-governmental platforms and websites and provide basic information about the individual to the beneficiary.
 
-<img src="https://github.com/Ba-saif/Homework/assets/153602958/925d5c5c-bb6e-4b4a-a096-d789d1628c3b" width="400">
+<img src="https://github.com/Ba-saif/Homework/assets/153602958/925d5c5c-bb6e-4b4a-a096-d789d1628c3b" width="500">
